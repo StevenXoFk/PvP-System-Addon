@@ -1,0 +1,30 @@
+{
+    "format_version": 1,
+    "header": {
+      "description": "This Addon adds kill system, kill streak, kill system and elo\n§bTwitter: §fStevenXFkCR  \n§cYoutube: §fStevenXoFk  \n§9Discord: §fStevenXoFk#8380",
+      "name": "PvP System",
+      "uuid": "5c7e1431-761a-4231-8884-4f812e5b45c2",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "min_engine_version": [
+        1,
+        8,
+        0
+      ]
+    },
+    "modules": [
+      {
+        "description": "",
+        "type": "data",
+        "uuid": "1db9ea55-6359-43f3-b94e-ded1543e829a",
+        "version": [
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  }
